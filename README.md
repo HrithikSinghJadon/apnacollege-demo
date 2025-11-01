@@ -1,4 +1,4 @@
 # apnacollege-demo
-this is my first project.
+This is my first project.
 <br>
-Auther- Hrithik singh
+Auther- Hrithik singh Jadon
